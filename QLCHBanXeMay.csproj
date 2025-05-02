@@ -176,11 +176,6 @@
       <DependentUpon>frmLoaixe.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QLCH_BanXeDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>QLCH_BanXeDataSet.xsd</DependentUpon>
-    </Compile>
     <Compile Include="QLCH_BanXeDataSet1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -267,17 +262,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="QLCH_BanXeDataSet.xsc">
-      <DependentUpon>QLCH_BanXeDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="QLCH_BanXeDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>QLCH_BanXeDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="QLCH_BanXeDataSet.xss">
-      <DependentUpon>QLCH_BanXeDataSet.xsd</DependentUpon>
-    </None>
     <None Include="QLCH_BanXeDataSet1.xsc">
       <DependentUpon>QLCH_BanXeDataSet1.xsd</DependentUpon>
     </None>
